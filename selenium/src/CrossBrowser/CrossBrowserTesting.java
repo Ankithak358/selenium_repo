@@ -29,6 +29,7 @@ public class CrossBrowserTesting {
 			driver=new FirefoxDriver();
 		}
 		driver.get("http://demowebshop.tricients.com/");
+		driver.get("http://demowebshop.tricients.com/");
 	}
 
 }
